@@ -39,19 +39,19 @@ education:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
+# social:
+# - icon: envelope
+ # icon_pack: fas
+ # link: '/#contact'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/kevin_moroney88
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.es/citations?user=AhQpUEsAAAAJ&hl=en
-#- icon: github
-  #icon_pack: fab
-  #link: https://github.com/gcushen
+# - icon: github
+  # icon_pack: fab
+  # link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/kmmoroney/
@@ -78,4 +78,4 @@ I've also worked on other projects including powder processing for continuous ma
 
 At UL, I teach courses covering introductory mathematics for computer science, advanced engineering mathematics and introductory numerical methods.
 
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
