@@ -78,4 +78,4 @@ I've also worked on other projects including powder processing for continuous ma
 
 At UL, I teach courses covering introductory mathematics for computer science, advanced engineering mathematics and introductory numerical methods.
 
-
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
