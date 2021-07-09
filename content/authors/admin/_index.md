@@ -70,12 +70,12 @@ email: ""
 highlight_name: false
 ---
 
-I am an applied mathematician based in Department of Mathematics and Statistics in the University of Limerick. My main interests are in the application of mathematical modelling to practical real world problems that arise in Science and Industry. I've worked on a variety of problems including:
+I am an applied mathematician based in the Department of Mathematics and Statistics in the University of Limerick. My main interests are in the application of mathematical modelling to practical real world problems that arise in Science and Industry. I've worked on a variety of problems including:
 - mathematical modelling of coffee extraction from ground coffee beans, 
 - process modelling of lens hydration in a contact lens manufacturing line to assist optimal design, 
 - mathematical modelling of drug release from oral solid dosage forms (tablets/capsules).
 
-To date most of my research has focused on differential equation modelling which I've used to describe mass transport processes in porous media. When modelling transport of dissolved species such as the chemical constituents in coffee or pharmaceutical drugs, I typically work with equations describing underlying processes of advection, diffusion and reaction. Generally, it is not possible to solve these exactly so a combination of asymptotic approaches (where possible) and numerical methods are used.
+Most of my research focuses on differential equation modelling, which I've used to describe mass transport processes in porous media. When modelling transport of dissolved species such as the chemical constituents in coffee or pharmaceutical drugs, I typically work with equations describing underlying processes of advection, diffusion and reaction. Generally, it is not possible to solve these exactly so a combination of asymptotic approaches (where possible) and numerical methods are used.
 
 I've also been involved in a number of other projects, including modelling of processes involved in the manufacture of pharmaceutical tablets, from which I have some experience in Design of Experiments (DoE) and data-driven modelling of experimental responses.
 
