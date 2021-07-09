@@ -72,4 +72,4 @@ highlight_name: false
 
 I am an applied mathematician based in University of Limerick. My main interests are in the application of mathematical modelling to practical real world problems that arise in Science and Industry.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
